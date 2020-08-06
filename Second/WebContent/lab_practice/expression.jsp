@@ -28,8 +28,6 @@
 	%>
 	<a href="process.jsp">click</a>
 	
-	
-	
 
 </body>
 </html>
